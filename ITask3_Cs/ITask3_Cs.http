@@ -1,0 +1,6 @@
+@ITask3_Cs_HostAddress = http://localhost:5101
+
+GET {{ITask3_Cs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
